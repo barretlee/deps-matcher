@@ -1,0 +1,27 @@
+{
+  "name": "deps-matcher",
+  "version": "0.0.1",
+  "description": "Match JS file's all dependencies.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barretlee/deps-matcher.git"
+  },
+  "keywords": [
+    "Dependency",
+    "Matcher"
+  ],
+  "author": "Barret Lee <barret.china@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barretlee/deps-matcher/issues"
+  },
+  "homepage": "https://github.com/barretlee/deps-matcher#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "match-require": "^2.1.0"
+  }
+}
