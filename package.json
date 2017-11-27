@@ -1,6 +1,6 @@
 {
   "name": "deps-matcher",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Match JS file's all dependencies.",
   "main": "lib/index.js",
   "scripts": {
